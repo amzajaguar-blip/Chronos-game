@@ -1,6 +1,6 @@
 # CHRONOS: Nox & Lulù — Android test download
 
-[Scarica direttamente CHRONOS-Nox-Lulu.apk](https://github.com/Flexati/chronos-downloads/raw/refs/heads/main/CHRONOS-Nox-Lulu.apk?download=1)
+[Scarica direttamente CHRONOS-Nox-Lulu.apk](https://github.com/amzajaguar-blip/Chronos-game/raw/refs/heads/downloads/chronos-nox-lulu-v8/CHRONOS-Nox-Lulu.apk?download=1)
 
 APK di prova offline. Richiede **Android 8.0 o successivo**.
 Scarica il file `.apk` e aprilo sul telefono Android. Nessun archivio ZIP da estrarre.
